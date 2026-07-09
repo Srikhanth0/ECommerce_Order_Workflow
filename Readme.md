@@ -386,7 +386,7 @@ Result
 
 ## Python Step
 
-[![Python Step](Workflow_ScreenShot/python_Workflow.png)](Workflow_ScreenShot/python_Workflow.png)
+[![Python Step](Workflow_ScreenShot/Python_Workflow.png)](Workflow_ScreenShot/Python_Workflow.png)
 
 ---
 
