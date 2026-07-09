@@ -192,13 +192,9 @@ Customer Success Team
 
 ---
 
-# Problem Encountered
+# Paid Subscription alternative
 
-While implementing the assignment, the native **Advanced If/Else** workflow component required a **paid Pipedream subscription** to deploy workflows.
-
-Although the workflow was successfully created and tested locally within the editor, deployment of workflows containing the Advanced If/Else component was restricted under the current free workspace.
-
-Since the assignment requested a complete working solution, I additionally implemented the same business logic using a **custom Python workflow**, ensuring identical functionality while remaining compatible with the available workspace features.
+During implementation, I found that the native Advanced If/Else workflow component required an Advanced workspace for deployment. To ensure a fully executable solution on the available workspace, I implemented an equivalent Python-based validation workflow. Both implementations satisfy the assignment's functional requirements.
 
 
 ---
