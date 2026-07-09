@@ -368,7 +368,7 @@ Result
 
 ## Workflow 1
 
-[![Workflow 1](Workflow_ScreenShot/if_flow_workflow.png)](Workflow_ScreenShot/if_flow_workflow.png)
+[![Workflow 1](Workflow_ScreenShot/If_flow_workflow.png)](Workflow_ScreenShot/If_flow_workflow.png)
 
 ---
 
@@ -386,7 +386,7 @@ Result
 
 ## Python Step
 
-[![Python Step](Workflow_ScreenShot/python_workflow.png)](Workflow_ScreenShot/custom_flow_workflow.png)
+[![Python Step](Workflow_ScreenShot/python_Workflow.png)](Workflow_ScreenShot/python_Workflow.png)
 
 ---
 
@@ -409,7 +409,7 @@ Result
 ---
 ## Discount Gmail Configuration
 
-[![Discount Gmail Configuration](Workflow_ScreenShot/Discount_Gmail_workflow.png)](Workflow_ScreenShot/Discount_Gmail_workflow.png)
+[![Discount Gmail Configuration](Workflow_ScreenShot/Discount_gmail_workflow.png)](Workflow_ScreenShot/Discount_gmail_workflow.png)
 
 # Repository Structure
 
