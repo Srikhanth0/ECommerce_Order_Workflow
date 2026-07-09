@@ -1,7 +1,7 @@
 # Ecommerce Webhook Automation Assignment
 
 <p align="center">
-  <img src="https://brandfetch.com/pipedream.com?view=library&library=default&collection=logos&asset=idxNzpLjOz&utm_source=https%253A%252F%252Fbrandfetch.com%252Fpipedream.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="Pipedream Logo" width="140"/>
+  <img src="https://logo.svgcdn.com/logos/pipedream.png" alt="Pipedream Logo" width="140"/>
 </p>
 
 <p align="center">
