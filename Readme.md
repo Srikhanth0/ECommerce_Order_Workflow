@@ -1,7 +1,7 @@
 # Ecommerce Webhook Automation Assignment
 
 <p align="center">
-  <img src="https://pipedream.com/s.v0/app_mEhXn1/logo/orig.png" alt="Pipedream Logo" width="140"/>
+  <img src="https://brandfetch.com/pipedream.com?view=library&library=default&collection=logos&asset=idxNzpLjOz&utm_source=https%253A%252F%252Fbrandfetch.com%252Fpipedream.com&utm_medium=copyAction&utm_campaign=brandPageReferral" alt="Pipedream Logo" width="140"/>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 |-----------------------------|-----------------------------|
 | **Name**                    | Srikhanth M                 |
 | **Phone Number**            | +91-7200012857              |
-| **Email**                   | [EMAIL_ADDRESS]             |
+| **Email**                   | [srikhanth.m0@gmail.com]    |
 | **Role Applied**            | Forward Deployed Engineer   |
 | **Platform Used**           | Pipedream                   |
 | **Programming Language**    | Python 3.12                 |
@@ -146,27 +146,49 @@ Recipient
 
 Immediate Email
 
-- Subject
+- Subject - Greetings
 
 ```
-Welcome! We've Received Your Order
+Hi,
+
+Thank you for placing your order with us!
+
+We're pleased to let you know that we've successfully received your order and it's now being processed.
+
+We're excited to have you onboard and look forward to providing you with a great experience. Our team is already working on your order, and we'll keep you updated on its progress.
+
+If you have any questions or need assistance, feel free to reply to this email. We're always happy to help.
+
+Thank you for choosing us!
+
+Best regards,
+Customer Success Team
+
 ```
 
-Second Email
-
-- Subject
-
-```
-Your Discount is Ready!
-```
-
----
 
 ### Delay
 
 ```
 5 Minutes
 ```
+
+Second Email
+
+- Subject - Promotional
+
+```
+Hi,
+
+Thank you for choosing us!
+
+As a token of our appreciation, we've unlocked a special discount for your next purchase.
+
+Use it on your next order and enjoy shopping with us again!
+
+Best regards,
+Customer Success Team
+
 
 ---
 
@@ -391,7 +413,7 @@ Result
 ---
 ## Discount Gmail Configuration
 
-[![Delay Workflow](Workflow_ScreenShot/Discount_Gmail_workflow.png)](Workflow_ScreenShot/Discount_Gmail_workflow.png)
+[![Discount Gmail Configuration](Workflow_ScreenShot/Discount_Gmail_workflow.png)](Workflow_ScreenShot/Discount_Gmail_workflow.png)
 
 # Repository Structure
 
@@ -408,6 +430,7 @@ Result
 │   ├── filter.png
 │   ├── gmail.png
 │   ├── delay.png
+│   ├── discount_gmail.png
 ```
 
 ---
